@@ -1,3 +1,6 @@
+b) Calcular la suma de los 3 valores utilizando un lazo con la dirección base y un registro como desplazamiento. Pista:
+Idem anterior, pero ahora con una única instrucciones de lectura y $t2 se incrementa dentro de un loop
+
 .data
 vector: .word 5,2,6
 res: .word 0
