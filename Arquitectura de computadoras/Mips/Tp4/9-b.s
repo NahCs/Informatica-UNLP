@@ -1,3 +1,7 @@
+b) Contar apariciones de carácter Escribir un programa que cuente la cantidad de veces que un determinado carácter
+aparece en una cadena de texto.
+
+
 .data
 cadena: .asciiz "adbdcdedfdgdhdid"
 car: .ascii "d"
