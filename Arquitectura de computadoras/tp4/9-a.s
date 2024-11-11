@@ -1,3 +1,8 @@
+a) Longitud de un string Escribir un programa que cuente la longitud de un string iterando el mismo hasta llegar al
+valor 0 y guarde el resultado en una variable llamada LONGITUD. Probarlo con el string “ArquiTectuRa de
+ComPutaDoras”.
+
+
 .data
 cadena: .asciiz "ArquiTectuRa de ComPutaDoras"
 LONGITUD: .word 0
