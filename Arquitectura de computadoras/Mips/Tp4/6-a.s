@@ -1,6 +1,6 @@
 a) Calcular la suma de los 3 valores sin utilizar un loop o lazo
 Pista: Usar tres instrucciones ld $t1, V($t2), donde $t2 va aumentando de a 8 bytes el desplazamiento.
-
+## En caso de descargar el archivo borrar enunciado, sino el mips no te lo toma ##
 
 .data
 vector: .word 1,3,5
