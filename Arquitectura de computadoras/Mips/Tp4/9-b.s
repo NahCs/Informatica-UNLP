@@ -1,6 +1,6 @@
 b) Contar apariciones de carácter Escribir un programa que cuente la cantidad de veces que un determinado carácter
 aparece en una cadena de texto.
-
+## En caso de descargar el archivo borrar enunciado, sino el mips no te lo toma ##
 
 .data
 cadena: .asciiz "adbdcdedfdgdhdid"
