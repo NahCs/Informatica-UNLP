@@ -1,7 +1,7 @@
 d) Generar string Escribir un programa que genere un string de la siguiente forma: “abbcccddddeeeee….”, así hasta la
 letra “h”. Para ello debe utilizar un loop e ir guardando los códigos ascii en la memoria. El string debe finalizar con el
 valor ascii 0 para que esté bien formado (debe agregar un elemento más, que valga 0, al final del string).
-
+## En caso de descargar el archivo borrar enunciado, sino el mips no te lo toma ##
 
 .data
 cadena: .asciiz ""
